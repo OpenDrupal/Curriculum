@@ -14,7 +14,7 @@ As a first step, this project aims to build a community-driven curriculum that c
 
 > What's a **curriculum**?  
 > In our context, a curriculum a set of learning outcomes, grouped by career path.  
-> The goal is not to create learning materials, but a shared roadmap toward becoming a proficient Drupal Site Builder / Module Developer / ...
+> The goal is not to create learning materials, but a shared roadmap toward becoming a proficient Site Builder / Module Developer / ...
 
 For the time being, developing the curriculum is this project's main focus.
 
