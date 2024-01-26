@@ -17,7 +17,7 @@ In the future we'd love to see the development open source learning materials th
 For the time being, developing the curriculum is this project's main focus.
 
 ## How?
-1. Establish a core set of personas that are the target audience for Drupal training.
+1. Establish a core set of Drupal career personas that are the target audience for Drupal training.
 2. Develop a comprehensive training curriculum for each persona.
 
 ## Who?
