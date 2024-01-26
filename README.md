@@ -3,7 +3,7 @@ aka: Project Odyssey
 
 ## 2024-01-26
 
-We're rebooting the OpenDrupal project.
+We're rebooting the OpenDrupal project, starting with a curriculum
 
 ## What's this all about?
 It's hard for newcomers to figure out what they need to learn, how, and in what order, to beat the infamous Drupal learning curve.
@@ -12,7 +12,9 @@ It's hard for organizations to compare training providers; training offers can v
 
 As a first step, this project aims to build a community-driven curriculum that can serve as a baseline for training providers.
 
-In the future we'd love to see the development open source learning materials that matches the curriculum, once there's a stable release. 
+> What's a **curriculum**?  
+> In our context, a curriculum a set of learning outcomes, grouped by career path.  
+> The goal is not to create learning materials, but a shared roadmap toward becoming a proficient Drupal Site Builder / Module Developer / ...
 
 For the time being, developing the curriculum is this project's main focus.
 
