@@ -1,5 +1,5 @@
 # The Open Drupal Curriculum (ODC) project.
-aka: Project Odyssey
+aka: _Project Odyssey_
 
 ## 2024 Reboot
 
