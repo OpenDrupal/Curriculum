@@ -18,7 +18,7 @@ As a first step, this project aims to build a community-driven curriculum that c
 
 **Developing a curriculum is this project's main focus**.  
 
-Community-led development of learning materials that follow the curriculum may see the light in the future as a separate project. 
+Community-led development of _learning materials_ that follow the curriculum may see the light in the future as a separate project. 
 
 ## How?
 1. Establish a core set of Drupal career personas that are the target audience for Drupal training.
