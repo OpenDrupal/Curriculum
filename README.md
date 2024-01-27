@@ -16,7 +16,7 @@ As a first step, this project aims to build a community-driven curriculum that c
 > In our context, the curriculum is a written plan outlining what learners will be taught.
 > The goal is not to create the learning materials themselves, but a shared roadmap toward becoming a proficient Site Builder / Module Developer / ...
 
-**Developing the curriculum is this project's main focus**.  
+**Developing a curriculum is this project's main focus**.  
 
 Community-led development of learning materials that follow the curriculum may see the light in the future as a separate project. 
 
