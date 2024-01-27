@@ -1,9 +1,9 @@
 # The Open Drupal Curriculum (ODC) project.
 aka: Project Odyssey
 
-## 2024-01-26
+## 2024 Reboot
 
-We're rebooting the OpenDrupal project, starting with a curriculum
+We're rebooting the OpenDrupal project, starting with ODC, a community-driven curriculum.
 
 ## What's this all about?
 It's hard for newcomers to figure out what they need to learn, how, and in what order, to beat the infamous Drupal learning curve.
@@ -29,7 +29,12 @@ Note: As the former iteration of this project was mostly dead for several years,
 
 ## Credits
 
-* Erik Stielstra (@sutharsan): original founder and longtime maintainer. Thanks again for all you did, Erik.
+### Currently
 * Joeri Poesen (@jpoesen): project lead as of 2024.
 * You?
 
+### Previously
+* Erik Stielstra (@sutharsan): original founder and longtime maintainer.
+* The original (now archived) content was in large part based on materials created by Erik Stielstra and Bèr Kessels (@berkes).
+
+We owe a debt of gratitude to Bèr, Erik, and the individual contributors for all the time and effort they put into this project over the years.
