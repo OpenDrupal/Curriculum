@@ -13,7 +13,8 @@ It's hard for organizations to compare training providers; training offers can v
 As a first step, this project aims to build a community-driven curriculum that can serve as a baseline for training providers.
 
 > What's a **curriculum**?  
-> In our context, the curriculum is a written plan outlining what learners will be taught.  
+> In our context, the curriculum is a written plan outlining what learners will be taught.
+> 
 > The goal is not to create the learning materials themselves, but a shared roadmap toward becoming a proficient Site Builder / Module Developer / ...
 
 **Developing a curriculum is this project's main focus**.  
