@@ -13,10 +13,12 @@ It's hard for organizations to compare training providers; training offers can v
 As a first step, this project aims to build a community-driven curriculum that can serve as a baseline for training providers.
 
 > What's a **curriculum**?  
-> In our context, the curriculum is a set of learning outcomes, grouped by career path.  
-> The goal is not to create learning materials, but a shared roadmap toward becoming a proficient Site Builder / Module Developer / ...
+> In our context, the curriculum is a written plan outlining what learners will be taught.
+> The goal is not to create the learning materials themselves, but a shared roadmap toward becoming a proficient Site Builder / Module Developer / ...
 
-For the time being, developing the curriculum is this project's main focus.
+**Developing the curriculum is this project's main focus**.  
+
+Community-led development of learning materials that follow the curriculum may see the light in the future as a separate project. 
 
 ## How?
 1. Establish a core set of Drupal career personas that are the target audience for Drupal training.
